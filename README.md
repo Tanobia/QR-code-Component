@@ -19,16 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Tanobia/QR-code-Component)
-- Live Site URL: [Add live site URL here](https://tanobia.github.io/QR-code-Component/)
+- Live Site URL: [ live site ](https://tanobia.github.io/QR-code-Component/)
 
-## My process
-
+ 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
-*
